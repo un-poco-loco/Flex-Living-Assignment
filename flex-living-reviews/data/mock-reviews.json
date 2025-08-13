@@ -1,0 +1,499 @@
+{
+  "reviews": [
+    {
+      "id": 7453,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing stay! The apartment was spotless and exactly as described. Shane was very responsive and helpful throughout our stay. The location is perfect for exploring London's East End.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-01-15 14:30:00",
+      "guestName": "Emily Johnson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great location in Shoreditch. The apartment was comfortable but could use some minor updates to the bathroom fixtures. Overall good value for the area.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 7 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 8 }
+      ],
+
+      "submittedAt": "2024-01-20 09:15:00",
+      "guestName": "Michael Chen",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Fantastic apartment with stunning views! The space was modern, clean, and perfectly located. Host was incredibly accommodating. Would definitely stay again!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 9 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-02-03 16:45:00",
+      "guestName": "Sarah Williams",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "The location is excellent and the apartment has great potential, but we experienced some issues with heating and the WiFi was unreliable. The host did try to help but issues persisted.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 6 },
+        { "category": "accuracy", "rating": 5 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 6 }
+      ],
+      "submittedAt": "2024-02-10 11:22:00",
+      "guestName": "James Rodriguez",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice compact apartment perfect for a solo business trip. Good transport links and quiet neighborhood. Kitchen could use better equipment but everything else was great.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 8 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-02-18 13:10:00",
+      "guestName": "Lisa Anderson",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely loved our stay! The Thames views from the balcony were breathtaking. The apartment was spacious, modern, and had everything we needed for our family vacation.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-02-25 19:30:00",
+      "guestName": "David and Emma Thompson",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "vrbo"
+    },
+    {
+      "id": 7459,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Disappointing stay. The apartment was not as clean as expected and there were noise issues from construction nearby. The photos were misleading about the condition of the furniture.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 4 },
+        { "category": "communication", "rating": 6 },
+        { "category": "check_in", "rating": 7 },
+        { "category": "accuracy", "rating": 3 },
+        { "category": "location", "rating": 6 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-03-05 08:45:00",
+      "guestName": "Robert Kim",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7460,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great apartment in a vibrant area. Easy access to restaurants and nightlife. The space was comfortable though the bed could be more comfortable. Host communication was excellent.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-03-12 15:20:00",
+      "guestName": "Maria Garcia",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7461,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect location for Olympic Park and Westfield. The apartment exceeded expectations - modern, clean, and well-equipped. Excellent value for money in London!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 9 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 10 }
+      ],
+      "submittedAt": "2024-03-18 12:30:00",
+      "guestName": "Jennifer Lee",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "booking"
+    },
+    {
+      "id": 7462,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Solid accommodation with great Thames views. The apartment was well-maintained and the location is unbeatable for London sightseeing. Minor issue with the shower pressure but overall satisfied.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 8 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 7 }
+      ],
+      "submittedAt": "2024-03-25 17:45:00",
+      "guestName": "Thomas Mueller",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7463,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 1,
+      "publicReview": "Very disappointing experience. The apartment was dirty upon arrival, with broken appliances and poor maintenance. The host was unresponsive to our complaints. Would not recommend.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 2 },
+        { "category": "communication", "rating": 2 },
+        { "category": "check_in", "rating": 4 },
+        { "category": "accuracy", "rating": 2 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 2 }
+      ],
+      "submittedAt": "2024-04-02 09:10:00",
+      "guestName": "Amanda Foster",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "vrbo"
+    },
+    {
+      "id": 7464,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Outstanding stay! The apartment was immaculate and the design was beautiful. Perfect for our anniversary weekend. The host went above and beyond with local recommendations.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-04-08 20:15:00",
+      "guestName": "Alex and Jordan Smith",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7465,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "The location is convenient for transport but the apartment felt smaller than advertised. Some amenities were missing and the noise from the street was quite loud at night.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 7 },
+        { "category": "check_in", "rating": 8 },
+        { "category": "accuracy", "rating": 5 },
+        { "category": "location", "rating": 8 },
+        { "category": "value", "rating": 6 }
+      ],
+      "submittedAt": "2024-04-15 14:25:00",
+      "guestName": "Sophie Brown",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "booking"
+    },
+    {
+      "id": 7466,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great apartment with amazing river views. The space was comfortable and well-located for business meetings in Canary Wharf. Wi-Fi was excellent. Would book again for work trips.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-04-22 11:40:00",
+      "guestName": "Rachel Green",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7467,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely perfect for our London adventure! The apartment was stylish, comfortable, and in the heart of trendy Shoreditch. Host provided great local tips and was always available.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-04-28 16:55:00",
+      "guestName": "Carlos and Isabella Martinez",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "vrbo"
+    },
+    {
+      "id": 7468,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "The apartment had potential but was let down by poor maintenance. Several light bulbs were out, the heating wasn't working properly, and the bathroom needs updating. Location was the only positive.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 6 },
+        { "category": "check_in", "rating": 7 },
+        { "category": "accuracy", "rating": 4 },
+        { "category": "location", "rating": 8 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-05-05 13:20:00",
+      "guestName": "Kevin O'Connor",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7469,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Nice apartment in a quiet area. Perfect for a peaceful stay while still being well-connected to central London. The space was clean and functional, though could use some decoration updates.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 7 },
+        { "category": "location", "rating": 8 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-05-12 10:35:00",
+      "guestName": "Hannah Wilson",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7470,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Incredible apartment with stunning city views! The space was luxurious and perfectly appointed. The location allowed us to walk to major attractions. Exceptional hospitality from start to finish.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-05-18 18:50:00",
+      "guestName": "Daniel and Rebecca Cohen",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7471,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "Average experience. The apartment was adequate but not exceptional. Some cleanliness issues and the furniture showed wear. The location was convenient but noisy during weekends.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 6 },
+        { "category": "communication", "rating": 7 },
+        { "category": "check_in", "rating": 8 },
+        { "category": "accuracy", "rating": 6 },
+        { "category": "location", "rating": 7 },
+        { "category": "value", "rating": 6 }
+      ],
+      "submittedAt": "2024-05-25 12:15:00",
+      "guestName": "Mark Johnson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7472,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good value apartment with character. The space had everything we needed and the area was vibrant with great restaurants nearby. A few minor maintenance issues but overall satisfied with our stay.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 9 },
+        { "category": "accuracy", "rating": 7 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-06-02 14:40:00",
+      "guestName": "Natalie Davis",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "vrbo"
+    },
+    {
+      "id": 7473,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect for our girls' weekend! The apartment was stylish, spotless, and in a fantastic location. Easy access to shopping and nightlife. The host was wonderful and very accommodating.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 9 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-06-08 21:25:00",
+      "guestName": "Michelle and Friends",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7474,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 1,
+      "publicReview": "Terrible experience. The apartment was nothing like the photos - outdated, unclean, and several broken amenities. The host was difficult to reach and unhelpful when issues arose. Complete waste of money.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 2 },
+        { "category": "communication", "rating": 1 },
+        { "category": "check_in", "rating": 3 },
+        { "category": "accuracy", "rating": 1 },
+        { "category": "location", "rating": 6 },
+        { "category": "value", "rating": 1 }
+      ],
+      "submittedAt": "2024-06-15 09:05:00",
+      "guestName": "Patricia Miller",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "booking"
+    },
+    {
+      "id": 7475,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Solid stay in a great neighborhood. The apartment was comfortable and clean with good amenities. The area has excellent food options and transport connections. Would recommend for business travelers.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 8 },
+        { "category": "check_in", "rating": 8 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-06-22 16:30:00",
+      "guestName": "Andrew Taylor",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7476,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Exceptional apartment with modern amenities and beautiful design. The host was incredibly helpful and responsive. Perfect location for exploring London. This place exceeded all our expectations!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "check_in", "rating": 10 },
+        { "category": "accuracy", "rating": 10 },
+        { "category": "location", "rating": 9 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2024-06-28 13:45:00",
+      "guestName": "Ryan and Ashley Kim",
+      "listingName": "2B N1 B - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7477,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "The apartment was okay but had some issues with plumbing and the WiFi was intermittent. The location was convenient but the space felt cramped for the price. Service was adequate but not outstanding.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 7 },
+        { "category": "communication", "rating": 6 },
+        { "category": "check_in", "rating": 7 },
+        { "category": "accuracy", "rating": 5 },
+        { "category": "location", "rating": 8 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2024-07-05 11:20:00",
+      "guestName": "Laura Peterson",
+      "listingName": "1B E3 C - 42 East Village",
+      "channel": "booking"
+    },
+    {
+      "id": 7478,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great Thames-side location with beautiful views. The apartment was spacious and well-equipped for our family stay. Some minor wear and tear but overall a positive experience. Would consider staying again.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "check_in", "rating": 8 },
+        { "category": "accuracy", "rating": 8 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 7 }
+      ],
+      "submittedAt": "2024-07-12 15:55:00",
+      "guestName": "Steven and Karen White",
+      "listingName": "3B S2 A - 15 Southbank Residences",
+      "channel": "vrbo"
+    }
+  ]
+}
